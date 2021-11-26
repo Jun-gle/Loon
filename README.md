@@ -1,2 +1,2 @@
 # Quantumultx
-quantumult x
+仅自用
