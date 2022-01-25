@@ -4,7 +4,7 @@
 [rewrite_local]
 
 #哔哩哔哩 by Weiren0
-^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-request-header blbl.js
+^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-request-header https://raw.githubusercontent.com/Jung1r/Quantumult_x/main/Bilibili.js
 //nnn
 [mitm]
 hostname = *.biliapi.*, *.bilibili.*
