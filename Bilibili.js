@@ -2,7 +2,7 @@
 
 [rewrite_local]
 
-# Bilibili by WeirenO
+# Bilibili
 ^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-request-header https://raw.githubusercontent.com/Jung1r/Quantumult_x/main/Bilibili.js
 //nnn
 [mitm]
