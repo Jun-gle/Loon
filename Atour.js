@@ -14,8 +14,8 @@
 【Loon】 :
 *************************
 [Script]
-cron "0 30 7 * * *" script-path=https://raw.githubusercontent.com/Sliverkiss/helloworld/master/Study/adjd.js, timeout=300, tag=亚朵酒店app
-http-request ^https:\/\/miniapp\.yaduo\.com\/atourlife\/signIn\/signIn.+ script-path=https://raw.githubusercontent.com/Sliverkiss/helloworld/master/Study/adjd.js, timeout=10, tag=亚朵酒店app获取token
+cron "0 30 7 * * *" script-path=https://raw.githubusercontent.com/Jun-gle/Quantumult/main/Atour.js, timeout=300, tag=亚朵酒店app
+http-request ^https:\/\/miniapp\.yaduo\.com\/atourlife\/signIn\/signIn.+ script-path=https://raw.githubusercontent.com/Jun-gle/Quantumult/main/Atour.js, timeout=10, tag=亚朵酒店app获取token
 *************************
 
 [MITM]
