@@ -1,6 +1,3 @@
-# https://github.com/DivineEngine/Profiles/blob/master/Surge/Ruleset/China.list
-# 2022-11-11
-
 # China Area Network
 DOMAIN-SUFFIX, flyert.com
 DOMAIN-SUFFIX, gandi.net
